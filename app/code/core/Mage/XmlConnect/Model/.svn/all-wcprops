@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model
+END
+Tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Tabs.php
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Template.php
+END
+OfflineCatalog.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/OfflineCatalog.php
+END
+ConfigData.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/ConfigData.php
+END
+ImageAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/ImageAction.php
+END
+History.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/History.php
+END
+Theme.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Theme.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Application.php
+END
+ImageLimits.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/ImageLimits.php
+END
+Queue.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Queue.php
+END
+Images.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Images.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Configuration.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Model/Observer.php
+END

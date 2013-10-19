@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Cart/Paypal/Mecl
+END
+OrderDetails.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Cart/Paypal/Mecl/OrderDetails.php
+END
+Review.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Cart/Paypal/Mecl/Review.php
+END
+Details.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Cart/Paypal/Mecl/Details.php
+END
+Shippingmethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Cart/Paypal/Mecl/Shippingmethods.php
+END

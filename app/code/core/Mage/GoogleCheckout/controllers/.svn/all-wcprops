@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/GoogleCheckout/controllers
+END
+ApiController.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/GoogleCheckout/controllers/ApiController.php
+END
+RedirectController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/GoogleCheckout/controllers/RedirectController.php
+END

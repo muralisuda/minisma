@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard
+END
+MostViewedProducts.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/MostViewedProducts.php
+END
+GraphInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/GraphInfo.php
+END
+NewCustomers.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/NewCustomers.php
+END
+GraphDataAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/GraphDataAbstract.php
+END
+GraphAmountsData.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/GraphAmountsData.php
+END
+GraphTotalsData.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/GraphTotalsData.php
+END
+LastOrders.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/LastOrders.php
+END
+SalesInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/SalesInfo.php
+END
+TopSearchTerms.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/TopSearchTerms.php
+END
+Customers.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/Customers.php
+END
+LastSearchTerms.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/LastSearchTerms.php
+END
+StoreSwitcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/StoreSwitcher.php
+END
+BestSellers.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/BestSellers.php
+END
+GraphOrderData.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/XmlConnect/Block/Adminhtml/Connect/Dashboard/GraphOrderData.php
+END

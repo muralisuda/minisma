@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/167835/branches/1.8/lib/Mage/Cache/Backend
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/167835/branches/1.8/lib/Mage/Cache/Backend/File.php
+END
+Redis.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/167835/branches/1.8/lib/Mage/Cache/Backend/Redis.php
+END

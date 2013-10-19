@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/Paypal/Model/Api
+END
+Standard.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/Paypal/Model/Api/Standard.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/Paypal/Model/Api/Abstract.php
+END
+Nvp.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/Paypal/Model/Api/Nvp.php
+END

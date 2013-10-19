@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/Paypal/Model/Payment
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/167835/branches/1.8/app/code/core/Mage/Paypal/Model/Payment/Transaction.php
+END

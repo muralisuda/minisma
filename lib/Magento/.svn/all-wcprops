@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/source/!svn/ver/167835/branches/1.8/lib/Magento
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/!svn/ver/167835/branches/1.8/lib/Magento/Exception.php
+END
+Crypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/source/!svn/ver/167835/branches/1.8/lib/Magento/Crypt.php
+END
+Profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/!svn/ver/167835/branches/1.8/lib/Magento/Profiler.php
+END
