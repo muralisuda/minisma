@@ -3220,3 +3220,9 @@ margin-bottom: 0;
  .prodgridimg img{border:1px solid #98cce8; padding:0px;}
 a.logo{margin:10px!important;text-align:center;}
 #logo_img{width:250px;height:70px; background:none;}
+/* Old price */ 
+.old-price { margin:0; } 
+.old-price .price { 
+color: red; 
+text-decoration: line-through; 
+}
