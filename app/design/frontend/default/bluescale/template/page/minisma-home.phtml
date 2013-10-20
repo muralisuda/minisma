@@ -1,0 +1,104 @@
+<?php
+/**
+ * Template for Mage_Page_Block_Html
+ */
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php echo $this->getLang() ?>" lang="<?php echo $this->getLang() ?>">
+<head>
+<?php echo $this->getChildHtml('head') ?>
+</head>
+<body<?php echo $this->getBodyClass()?' class="'.$this->getBodyClass().'"':'' ?>>
+<?php echo $this->getChildHtml('after_body_start') ?>
+<div class="page">
+    <?php echo $this->getChildHtml('global_notices') ?>
+    <div class="wrapper">
+        <div class="header-a">	 <?php echo $this->getChildHtml('header') ?> </div>
+        <div class="main col1-layout wrapper_br">
+         <div class="banner-block">
+ <div class="container">
+	<div style="width: 925px; height: 335px;" class="wt-rotator">
+    	<div style="width: 925px; height: 335px;" class="screen"><a target="" style="cursor: pointer;" href="#"><img style="display: none; z-index: 0;" src="<?php echo $this->getSkinUrl('images/banner1.png'); ?>" class="main-img"><img style="display: none; z-index: 0;" src="<?php echo $this->getSkinUrl('images/banner1.png'); ?>" class="main-img"><img style="display: none; z-index: 1;" src="<?php echo $this->getSkinUrl('images/banner2.png'); ?>" class="main-img"><img id="curr-img" style="display: inline; z-index: 0;" src="<?php echo $this->getSkinUrl('images/banner3.png'); ?>" class="main-img"></a>								<div style="visibility: visible; display: none; top: auto; left: auto; width: 305px; height: 132px;" class="desc"><div style="background-color: rgb(0, 0, 0);" class="inner-bg"></div></div>								<div style="display: none;" class="preloader"></div>								<div style="visibility: visible; top: 0px; width: 0px; overflow: hidden;" id="timer"></div></div>
+        <div style="margin: 5px 0px 5px 5px; top: 325px; left: 0px; visibility: visible;" class="c-panel">
+      		
+            <div style="height: 17px; float: right;" class="thumbnails">
+                <ul>
+					 
+                    <li class="curr-thumb" style="width: 24px; height: 24px; line-height: 24px; margin-right: 5px;">
+                    	<a href="<?php echo $this->getSkinUrl('images/banner1.png'); ?>"></a>												
+						                                                 
+                    </li>
+										 
+                    <li class="" style="width: 24px; height: 24px; line-height: 24px; margin-right: 5px;">
+                    	<a href="<?php echo $this->getSkinUrl('images/banner2.png'); ?>"></a>												
+						                                                 
+                    </li>
+										 
+                    <li class="" style="width: 24px; height: 24px; line-height: 24px; margin-right: 5px;">
+                    	<a href="<?php echo $this->getSkinUrl('images/banner3.png'); ?>"></a>												
+						                                                 
+                    </li>
+					<li class="" style="width: 24px; height: 24px; line-height: 24px; margin-right: 5px;">
+                    	<a href="<?php echo $this->getSkinUrl('images/banner4.png'); ?>"></a>												
+						                                                 
+                    </li>																														              	</ul>
+            </div>     
+        </div>
+    </div>	
+</div> 
+<script type="text/javascript">
+	jQuery(document).ready(	
+		function() {
+			jQuery(".container").wtRotator({
+				width:925,
+				height:335,
+				button_width:24,
+				button_height:24,
+				button_margin:5,
+				auto_start:true,
+				delay:5000,
+				transition:"random",
+				transition_speed:800,
+				auto_center:false,
+				cpanel_position:"inside",
+				cpanel_align:"BR",
+				timer_align:"top",
+				display_thumbs:true,
+				display_dbuttons:true,
+				display_playbutton:true,
+				display_numbers:true,
+				display_timer:true,
+				mouseover_pause:false,
+				cpanel_mouseover:false,
+				text_mouseover:false,
+				text_effect:"fade",
+				text_sync:true,
+				tooltip_type:"image",
+				shuffle:false,
+				block_size:75,
+				vert_size:55,
+				horz_size:50,
+				block_delay:25,
+				vstripe_delay:75,
+				hstripe_delay:180			
+			});
+		}
+	);
+</script>  
+  </div>
+            <!--div class="main"-->
+               
+                <div class="col-main">
+                    <?php echo $this->getChildHtml('breadcrumbs') ?>
+                    <?php echo $this->getChildHtml('global_messages') ?>
+                    <?php echo $this->getChildHtml('content') ?>
+                </div>
+            <!--/div-->
+        </div>
+        <?php echo $this->getChildHtml('footer') ?>
+        <?php echo $this->getChildHtml('before_body_end') ?>
+    </div>
+</div>
+<?php echo $this->getAbsoluteFooter() ?>
+</body>
+</html>
